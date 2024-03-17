@@ -1,6 +1,6 @@
 # 🤓 R0B24
 
-**'Virtual Artisan (Developer/Creator/Adventurer)'**
+**`Virtual Artisan (Developer/Creator/Adventurer)`**
 
 I'm a self-motivated developer driven by a curiosity to continously learn and build my version of the digital world one step at a time. From tinkering with my first line of code to diving deep into complex algorithms, my journey in conding has been on of continual grwoth and fascination. With each project, I find fulfillment in the journey of discovery and contribute meaningfully to the ever-evolving languages of technology. Let's see where the journey takes us...
 
