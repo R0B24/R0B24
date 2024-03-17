@@ -25,7 +25,7 @@ I'm a self-motivated developer driven by a curiosity to continously learn and bu
 
 ### 📊 ⚡️ Stats
 
-[R0B's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0B24&show_icons=true&theme=gruvbox)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0B24)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=R0B24&theme=gruvbox&border_radius=4.5) -->
 
